@@ -4,13 +4,13 @@
 .htext1{
     top: 10em;
     text-align: center;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 35px;
     letter-spacing: 4px;
     margin-top: 16rem;
 }
 
-strong{
+.strong{
     font-weight:900;
 }
 
@@ -20,4 +20,29 @@ strong{
     margin-left: 10px;
     margin-top: 1em;
 }
+
+.chevs{
+    width: 13px;
+    cursor: pointer;
+}
+
+/* ALL STYLES FOR MENU SECTION */
+
+.leftNav{
+    box-shadow: 12px 11px 15px 2px #0000007c;
+    background-color: rgb(0, 0, 0);
+    height: 36em;
+    width: 6em;
+    border-radius: 20px;
+}
+
+.menuHead{
+    text-decoration: underline #F1D5BB;
+
+}
+strong{
+    font-weight:100;
+}
+
+
 
