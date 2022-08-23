@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
 
 /* HOME PAGE styles */
-.htext1{
+.htext1 {
     top: 10em;
     text-align: center;
     font-weight: 400;
@@ -10,25 +10,26 @@
     margin-top: 16rem;
 }
 
-.strong{
-    font-weight:900;
+.strong {
+    font-weight: 900;
 }
 
-.cart, .menu{
+.cart,
+.menu {
     width: 7em;
     border-radius: 0px;
     margin-left: 10px;
     margin-top: 1em;
 }
 
-.chevs{
+.chevs {
     width: 13px;
     cursor: pointer;
 }
 
 /* ALL STYLES FOR MENU SECTION */
 
-.leftNav{
+.leftNav {
     box-shadow: 12px 11px 15px 2px #0000007c;
     background-color: rgb(0, 0, 0);
     height: 36em;
@@ -36,13 +37,23 @@
     border-radius: 20px;
 }
 
-.menuHead{
+.menuHead {
     text-decoration: underline #F1D5BB;
 
 }
-strong{
-    font-weight:100;
+
+strong {
+    font-weight: 100;
 }
 
-
-
+/* #navContB {
+    background-color: #F1D5BB;
+    
+} */
+/* img{
+    position: relative;
+    bottom: 20px;
+} */
+.try{
+    color: white;
+}
