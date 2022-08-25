@@ -57,3 +57,7 @@ strong {
 .try{
     color: white;
 }
+
+.bkgIcons:hover{
+    background-color: #F1D5BB;
+}
